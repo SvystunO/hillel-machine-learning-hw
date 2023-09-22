@@ -1,0 +1,3 @@
+Transformer: Translation
+
+На основе T5 (или любой другой) модели из библиотеки HuggingFace сделать переводчик

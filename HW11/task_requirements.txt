@@ -1,0 +1,5 @@
+CV Architectures, fine-tuning
+
+Course project:
+Transfer learning for your dataset on a chosen pretrained model
+Construct your own simple architecture and train it on your dataset

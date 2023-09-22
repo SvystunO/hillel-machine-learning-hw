@@ -1,0 +1,9 @@
+ДЗ 8. PCA use cases
+
+Get dataset from Kaggle (any tabular dataset you want)
+Make simple classifier / regressor on the dataset
+Reasonably reduce dataset dimensionality
+Plot explained variance
+Explain chosen number of components
+Retrain the same classifier / regressor on the dataset with reduced dimensionality
+Compare accuracies / MSEs and speed of the two approaches (with and without dimensionality reduction)
