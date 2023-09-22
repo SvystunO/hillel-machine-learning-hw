@@ -1,0 +1,11 @@
+ДЗ 4. Experiments with NN
+
+--== Pytorch NN ==--
+
+Plot loss curve (both train and test)
+Print model weights (before and after training) and compare with original ones
+Plot results (predicted line along with dataset data)
+Optional:
+
+How predicted line will chance if self.bias = nn.Parameter(0, requires_grad=False)?
+What will be the value of self.bias if self.weights = nn.Parameter(0, requires_grad=False)?

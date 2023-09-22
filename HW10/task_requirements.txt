@@ -1,0 +1,5 @@
+Convolutional neural network (CNN)
+
+- Calculate number of weights on each layer
+- Calculate shape of tensors before and after each layer
+- Make model overfit the data. Show loss curves with overfit

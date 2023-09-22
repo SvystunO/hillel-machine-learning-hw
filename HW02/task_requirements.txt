@@ -1,0 +1,8 @@
+ДЗ 2. Experiments with minimization
+
+Plot loss function value (should drop over the fitting, loss = f(epoch))
+Try RMSE, MAE and maybe other losses for linear regression
+Make animation for fitting: plots of changing fitting curve (line) over the data (see slides)
+Experiment with non-linear data, for example:
+y = 2 * x**2 + x + 3.5 + noise
+Experiment with number of samples, sigma, and optimization algorithms

@@ -1,0 +1,11 @@
+ДЗ 6. Experiment with multiclass classification (MLP) for MNIST data set
+
+Create neural network and:
+
+Include dropout layers
+Include batch normalization layers
+Include more layers
+Experiment with activation functions
+Experiment presence / absence of dropout and batch normalization
+Experiment with batch size
+Plot loss = f(epochs) for each experiment

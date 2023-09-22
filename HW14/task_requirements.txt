@@ -1,0 +1,5 @@
+RNN
+
+Для IMDB датасету зробити класифікацію на основі RNN
+https://keras.io/api/datasets/imdb/
+https://pytorch.org/text/stable/datasets.html#imdb
